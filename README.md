@@ -10,7 +10,7 @@ The Person class represents a subject, waiting in line to get the vaccine.
 The CoronaQueue class is the data structure itself.  
 
 
-## Sorting
+### Sorting
 
 I wrote Java implementation of several algorithms studied in the class:
 - Heap Sort
