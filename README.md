@@ -1,4 +1,5 @@
-# University_projects_in_java
+# University_projects_in_java  
+
 
 
 ## COVID-19-Vaccination-Queue
@@ -9,3 +10,14 @@ The Person class represents a subject, waiting in line to get the vaccine.
 The CoronaQueue class is the data structure itself.  
 
 
+## Sorting
+
+I wrote Java implementation of several algorithms studied in the class:
+- Heap Sort
+- Build Heap
+- Quick sort (with an arbitrary pivot)
+- Merge Sort
+- Bubble Sort
+
+This also come with a graph that shows the 
+differences runtime between each sorting.
