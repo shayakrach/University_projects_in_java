@@ -19,5 +19,13 @@ I wrote Java implementation of several algorithms studied in the class:
 - Merge Sort
 - Bubble Sort
 
-This also come with a graph that shows the 
-differences runtime between each sorting.
+This also come with a graph that shows the differences runtime between each sorting.
+
+
+## COVID-19-vaccination-keep-records
+
+Implement the data structure in the following way:  
+The subjects (represented by the supplied Person class from the first project)  
+will be held in 2 AVL trees, ordered according to their ID numbers.  
+The first tree stores subjects that await termination while the second tree stores all the vaccinated subjects.  
+In this project I also implemented AVLNode, AVLTree and VaccinationRecord classes.  
